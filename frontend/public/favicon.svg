@@ -1,0 +1,11 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Elegant Serif 'R' -->
+  <path d="M22 15C22 13.8954 22.8954 13 24 13H38C44.6274 13 50 18.3726 50 25C50 31.6274 44.6274 37 38 37H30V48C30 49.6569 28.6569 51 27 51C25.3431 51 24 49.6569 24 48V15Z" fill="url(#paint0_linear)"/>
+  <path d="M38 37L52 51H45L33 39L38 37Z" fill="url(#paint0_linear)"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="22" y1="13" x2="52" y2="51" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F0F0F0"/>
+    </linearGradient>
+  </defs>
+</svg>
