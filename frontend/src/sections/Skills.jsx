@@ -14,7 +14,6 @@ const Skills = () => {
         { name: 'Php', icon: <SiPhp />, color: '#7e74e5ff' },
         { name: 'Node.js', icon: <SiNodedotjs />, color: '#339933' },
         { name: 'MySql', icon: <SiMysql />, color: '#2f69ccff' },
-        { name: 'Express.js', icon: <SiExpress />, color: '#ffffffff' },
         { name: 'Git', icon: <SiGit />, color: '#F05032' }
     ];
 

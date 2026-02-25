@@ -3,9 +3,8 @@ import './About.css';
 
 const About = () => {
     const skills = [
-        { name: ' Node.js', level: 75 },
-        { name: 'React', level: 70 },
-        { name: 'Express.js', level: 75 },
+        { name: ' Node.js', level: 60 },
+        { name: 'React', level: 60 },
         { name: 'Php', level: 60 },
         { name: 'MySql', level: 85 },
         { name: 'Git', level: 70 },

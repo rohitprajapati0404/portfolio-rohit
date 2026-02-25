@@ -52,8 +52,8 @@ const Hero = () => {
                         View My Work <FiArrowRight />
                     </a>
                     <div className="social-links">
-                        <a href="https://github.com" target="_blank" rel="noreferrer"><FiGithub /></a>
-                        <a href="https://linkedin.com" target="_blank" rel="noreferrer"><FiLinkedin /></a>
+                        <a href="https://github.com/rohitprajapati0404" target="_blank" rel="noreferrer"><FiGithub /></a>
+                        <a href="https://www.linkedin.com/in/rohit-prajapati-120471377?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noreferrer"><FiLinkedin /></a>
                         <a href="https://www.instagram.com/rohit_prajapati_04?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><FiInstagram /></a>
 
                     </div>
